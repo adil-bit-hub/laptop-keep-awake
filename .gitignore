@@ -1,0 +1,9 @@
+# 备份文件含本机方案 GUID 与计算机名，不入库
+keep-awake-backup.json
+!keep-awake-backup.example.json
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
