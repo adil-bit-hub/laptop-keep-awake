@@ -1,0 +1,14 @@
+{
+    "createdAt": "2026-01-01 00:00:00",
+    "computer": "YOUR-PC-NAME",
+    "schemeGuid": "381b4222-f694-41f0-9685-ff5bb260df2e",
+    "lidAction": {
+        "AC": 1,
+        "DC": 1
+    },
+    "standbyIdle": {
+        "AC": 0,
+        "DC": 900
+    },
+    "lidAttributes": 1
+}
